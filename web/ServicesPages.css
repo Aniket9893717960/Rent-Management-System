@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Aug, 2023, 2:12:30 AM
+    Author     : INDIA
+*/
+
+
+.btn btn-secondary{
+            /* Add your custom styles here */
+            background-color: #ffffff; /* Green */
+            color: #ffffff;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+.btn btn-secondary:hover {
+            background-color: #ffffff; /* Darker green on hover */
+   }
+   

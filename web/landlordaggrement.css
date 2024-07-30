@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Jul, 2023, 12:12:35 AM
+    Author     : INDIA
+*/
+
+body {
+            background-color: white;
+        }
+
+        .agreement-content {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .agreement-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .agreement-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: yellow;
+        }
+
+        .agreement-content {
+            text-align: justify;
+        }
+
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #FFEB3B;
+  color: #FFEB3B;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #FFEB3B;
+}
+
+
+
+
+
+
+
